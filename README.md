@@ -1,4 +1,4 @@
-# PDF Query Bot
+# PDF Query Assistant
 
 PDF Query Bot is a RAG based Python application that extracts text from a PDF, chunks the text, embeds the chunks, stores the embeddings in a Faiss index, and generates responses to user queries using the Hugging Face GPT-2 model.
 
